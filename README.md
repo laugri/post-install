@@ -28,7 +28,7 @@ My post-install script for Ubuntu machines
 
 ## Software
 
- - Git
+ - Git + config
  - Chrome
  - Sublime Text + config
  - Redshift + config
