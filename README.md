@@ -38,4 +38,4 @@ My post-install script for Ubuntu machines
  - TLP + config (*TODO*)
  - virtualenv + virtualenvwrapper (*TODO*)
  - node (*TODO*)
-
+ - CompizConfig Settings Manager
