@@ -25,11 +25,16 @@ My post-install script for Ubuntu machines
  - online search off
  - keyboard shortcuts: browser and home folder
  - wallpaper
+ - set default web browser to chrome
 
 ## Software
 
  - Git + config
  - Chrome
  - Sublime Text + config
+ - vim
  - Redshift + config
  - TLP + config
+ - virtualenv + virtualenvwrapper
+ - node
+
