@@ -31,6 +31,7 @@ My post-install script for Ubuntu machines
 ## Software
 
  - Git + config (*TODO*)
+ - tig
  - Chrome (*TODO*)
  - Sublime Text + config (*TODO*)
  - vim (*TODO*)
