@@ -5,38 +5,39 @@ My post-install script for Ubuntu machines
 
 ## Dotfiles
 
- - bash (*TODO*)
+ - bash
      + theme
      + behavior
      + shortcuts
- - config (*TODO*)
- - ssh (*TODO*)
- - other (*TODO*)
+ - config
+ - ssh
+ - other
 
 ## System
 
- - natural scrolling on (*TODO*)
- - workspaces on (*TODO*)
- - workspace change animation speed (*TODO*)
- - show the menus for a window: un the window's title bar (*TODO*)
- - sticky edges off (*TODO*)
- - launchbar items (*TODO*)
- - lockscreen (*TODO*)
- - power management (*TODO*)
- - online search off (*TODO*)
- - keyboard shortcuts: browser and home folder (*TODO*)
- - wallpaper (*TODO*)
- - set default web browser to chrome (*TODO*)
+ - natural scrolling on
+ - workspaces on
+ - workspace change animation speed
+ - show the menus for a window: un the window's title bar
+ - sticky edges off
+ - launchbar items
+ - lockscreen
+ - power management
+ - online search off
+ - keyboard shortcuts: browser and home folder
+ - wallpaper
+ - set default web browser to chrome
 
 ## Software
 
- - Git + config (*TODO*)
+ - Git + config
  - tig
- - Chrome (*TODO*)
- - Sublime Text + config (*TODO*)
- - vim (*TODO*)
- - Redshift + config (*TODO*)
- - TLP + config (*TODO*)
- - virtualenv + virtualenvwrapper (*TODO*)
- - node (*TODO*)
+ - Chrome
+ - Sublime Text + config
+ - vim
+ - Redshift + config
+ - TLP + config
+ - virtualenv + virtualenvwrapper
+ - node
  - CompizConfig Settings Manager
+ - The fuck
