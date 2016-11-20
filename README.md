@@ -1,17 +1,14 @@
 # post-install
-My post-install script for Ubuntu machines
 
 # Todo
 
 ## Dotfiles
 
+https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+
  - bash
-     + theme
-     + behavior
-     + shortcuts
  - config
- - ssh
- - other
+ - sublime
 
 ## System
 
@@ -41,3 +38,5 @@ My post-install script for Ubuntu machines
  - node
  - CompizConfig Settings Manager
  - The fuck
+ - indicator-multiload
+ - psensor
