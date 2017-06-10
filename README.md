@@ -1,21 +1,17 @@
 # post-install
 
-# Todo
-
 ## Dotfiles
 
-https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+https://github.com/laugri/dotfiles
 
- - bash
- - config
- - sublime
+# Todo
 
 ## System
 
  - natural scrolling on
  - workspaces on
  - workspace change animation speed
- - show the menus for a window: un the window's title bar
+ - show the menus for a window: in the window's title bar
  - sticky edges off
  - launchbar items
  - lockscreen
@@ -40,3 +36,4 @@ https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare
  - The fuck
  - indicator-multiload
  - psensor
+ - Elctrum
